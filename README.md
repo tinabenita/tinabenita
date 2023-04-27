@@ -1,7 +1,7 @@
 
 
-# 💫 About Me:
-Hi there 👋<br>🌱 I’m currently learning web development.<br>👯 I’m looking to collaborate on projects.<br>⚡ Fun fact: I am a makeup artist.
+# Hi there 👋
+<br>🌱 I’m currently learning web development.<br>👯 I’m looking to collaborate on projects.<br>⚡ Fun fact: I am a makeup artist.
 
 
 ## 🌐 Socials:
