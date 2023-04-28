@@ -1,7 +1,7 @@
 
 
 # Hi there 👋
-<br>🌱 I’m currently learning HTML AND CSS.<br>👯 I’m looking to collaborate on projects.<br>⚡ Fun fact: I am a makeup artist.
+<br>🌱 I’m currently learning front end development.<br>👯 I’m looking to collaborate on projects.<br>⚡ Fun fact: I am a makeup artist.
 
 
 ## 🌐 Socials:
