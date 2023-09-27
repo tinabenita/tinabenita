@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java.<br>⚡ Fun fact: I am a makeup enthusiast.
+🌱 I’m currently learning Web Development.<br>⚡ Fun fact: I am a makeup enthusiast.
 
 
 ## 🌐 Socials:
