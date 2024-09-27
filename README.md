@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinabenita&show_icons=true&locale=en&theme=midnight-purple" alt="tinabenita" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinabenita&" alt="tinabenita&theme=midnight-purple" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tinabenita&theme=midnight-purple" alt="GitHub Streak" /></a>
