@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tina</h1>
-- 🌱 I’m currently learning ASP.NET Core
+🌱 I’m currently learning ASP.NET Core
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
