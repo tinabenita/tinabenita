@@ -9,12 +9,12 @@
 <h3 align="center">Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,bash,c,cs,css,dotnet,git,gitlab,html,java,js,mysql,postgres,postman,py,selenium,ubuntu,visualstudio,vscode,windows&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,mysql,postgres,selenium,git,postman,java,astro,bash,c,py,gitlab,visualstudio,vscode,ubuntu,windows&perline=5&theme=dark" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinabenita&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="tinabenita" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinabenita&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="tinabenita" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinabenita&show_icons=true&locale=en&theme=midnight-purple" alt="tinabenita" /></p> 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tinabenita&theme=midnight-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tinabenita&theme=midnight-purple" alt="GitHub Streak" /></a>
