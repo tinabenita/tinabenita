@@ -6,10 +6,10 @@
 <a href="https://linkedin.com/in/tina-benita-rego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tina-benita-rego" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Technologies:</h3>
+<h3 align="center">Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,postgres,mysql,selenium,git,postman,java,astro,bash,c,py,gitlab,visualstudio,vscode,ubuntu,windows&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,postgres,mysql,selenium,git,postman,java,c,py,gitlab,visualstudio,vscode,ubuntu,windows&perline=5&theme=dark" />
   </a>
 </p>
 
