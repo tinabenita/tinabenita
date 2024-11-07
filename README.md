@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tina</h1>
-<p align="center">🌱 I’m currently learning .NET</p>
+<p align="center">🌱 I’m currently learning Angular</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
