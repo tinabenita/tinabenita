@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tina</h1>
-<p align="center">🌱 I’m currently learning Angular</p>
+<p align="center">🌱 I’m currently learning FastAPI</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -9,7 +9,7 @@
 <h3 align="center">Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,postgres,mysql,selenium,git,postman,java,c,py,gitlab,visualstudio,vscode,ubuntu,windows&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,fastapi,postgres,mysql,selenium,git,postman,java,c,py,gitlab,visualstudio,vscode,ubuntu,windows&perline=5&theme=dark" />
   </a>
 </p>
 
