@@ -9,7 +9,7 @@
 <h3 align="center">Tech Stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,figma,py,dotnet,azure,postgres,mysql,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,typescript,figma,py,fastapi,dotnet,azure,postgres,mysql,&theme=dark" />
   </a>
 </p>
 
